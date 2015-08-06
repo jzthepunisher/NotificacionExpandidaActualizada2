@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificacionExpandidaActualizada</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="etiqueta_notificacion">Tienes mensajes nuevos para revisar...</string>
+</resources>
